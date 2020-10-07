@@ -1,7 +1,7 @@
 logging:
   level: INFO
   loggers:
-    com.redislabs.university: DEBUG
+    com.redislabs.university: INFO
 defaultName: "RediSolar"
 redis:
   host: localhost
