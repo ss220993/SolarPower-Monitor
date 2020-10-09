@@ -5,8 +5,6 @@ Introduction
 
 This is the sample application codebase for RU102J, [Redis for Java Developers](https://university.redislabs.com/courses/ru102j/) at [Redis University](https://university.redislabs.com).
 
-Solutions to the course programming challenges can be found on the `solutions` branch.
-
 Prerequisites
 ---
 
