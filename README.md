@@ -1,4 +1,15 @@
 # RediSolar for Java
+To build a solar power monitoring and ingestion application. The project consists of three components:
+
+A command-line data loading application
+A REST API backend built with Dropwizard
+A Vue.js front end
+The API will load and query data from Redis using a data model. The project invloves the use of several Redis data structures, including:
+Hashes
+Sets
+Geospatial indexes
+Streams
+The server will also use Redis to implement a rate-limiting system on API calls.
 
 In order to start and run this application, you will need:
 
