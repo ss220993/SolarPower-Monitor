@@ -1,4 +1,4 @@
-# RediSolar for Java
+# Solar Power Monitor in Java and Redis
 To build a solar power monitoring and ingestion application. The project consists of three components:
 
 A command-line data loading application
